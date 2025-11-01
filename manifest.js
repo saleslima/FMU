@@ -1,6 +1,6 @@
 {
-  "name": "FISIO",
-  "short_name": "FISIO",
+  "name": "FMU",
+  "short_name": "FMU,
   "description": "Agendamento",
   "start_url": "https://saleslima.github.io/FMU/index.html",
   "scope": "https://saleslima.github.io/FMU/",
@@ -24,3 +24,4 @@
   ]
 
 }
+
